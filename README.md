@@ -94,6 +94,12 @@ cd todo-list-app
 
 ---
 
+## Live Link
+
+- The app is currently availble on github pages [click here](https://gj40.github.io/todo-list/)
+
+---
+
 ## 🙌 Contributing
 
 Feel free to fork the repo, create a new branch, and submit a pull request.
